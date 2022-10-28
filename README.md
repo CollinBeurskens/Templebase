@@ -24,4 +24,8 @@ Install Font templebase.otf
 ```bash
   npm install Font templebase.otf
 ```
+
+## NOTE
+
+The font is officialy called Bespoke
     
