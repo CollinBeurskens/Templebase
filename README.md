@@ -12,7 +12,7 @@
 
 Yes!
 
-#### Are we allowed to use this font?
+#### Am i allowed to use this font?
 
 Yes! Yes! Yes!
 
